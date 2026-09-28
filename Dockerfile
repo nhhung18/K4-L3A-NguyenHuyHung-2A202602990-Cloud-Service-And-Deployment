@@ -27,7 +27,8 @@ WORKDIR /app
 
 COPY requirements.txt .
 
-RUN pip install --no-cache-dir --prefix=/install -r requirements.txt
+RUN pip install --no-cache-dir --default-timeout=120 --retries=5 \
+	--prefix=/install -r requirements.txt
 
 FROM python:3.11-slim AS runtime
 
