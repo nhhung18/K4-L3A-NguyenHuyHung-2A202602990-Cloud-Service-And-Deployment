@@ -10,9 +10,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo K4-L3A-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Họ và tên | Nguyễn Huy Hùng |
+| Mã học viên | 2A202602990 |
+| Repo | https://github.com/nhhung18/K4-L3A-NguyenHuyHung-2A202602990-Cloud-Service-And-Deployment.git |
 
 ## Service
 
